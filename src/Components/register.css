@@ -1,0 +1,29 @@
+.back{
+    /* background-color: black; */
+    padding: 60px;
+    
+    
+   
+}
+
+.ln{
+    font-weight: 500;
+    margin-right: 100px;
+    font-size: 15px;
+}
+
+.ib{
+    border: 2px solid gray;
+    box-shadow: 20px;
+    border-radius: 5px;
+    text-align: center;
+    width: 100%;
+
+}
+
+.ib:focus{
+    outline: gray;
+}
+
+
+

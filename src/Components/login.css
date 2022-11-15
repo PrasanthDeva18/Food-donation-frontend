@@ -1,0 +1,14 @@
+.outer{
+    display: flex;
+    width: 50%;
+    margin:0 350px;
+    height: 65vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* border: 20px solid black; */
+    background: rgb(0,212,255);
+    background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(12,241,104,0.9384494642583596) 40%);
+    border-radius: 20px;
+    margin-top: 50px;
+}
